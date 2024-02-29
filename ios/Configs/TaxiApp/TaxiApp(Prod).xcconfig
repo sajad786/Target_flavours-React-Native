@@ -1,0 +1,12 @@
+#include "Pods/Target Support Files/Pods-available_pods-Taxiapp/Pods-available_pods-Taxiapp.release.xcconfig"
+PROJECT_APPLE_ID = 6447297665
+PROJECT_BUNDLE_ID =com.preamada.order
+PROJECT_APP_VERSION = 1.1
+PROJECT_BUILD_NUMBER = 2
+PROJECT_APP_NAME = TaxiApp
+PROJECT_GOOGLE_CLIENT_ID =415447569491-05h7bi42hpk6ti7ofp91g6rp7ophu2lb.apps.googleusercontent.com
+PROJECT_GOOGLE_REVERSE_CLIENT_ID =com.googleusercontent.apps.415447569491-05h7bi42hpk6ti7ofp91g6rp7ophu2lb
+PROJECT_FACEBOOK_ID = 2568111853327536
+PROJECT_TWITTER_ID = twitterkit-R66DHARfuoYAPowApUxNxwbPi
+PROJECT_PLIST =PreamadaInfo
+PROJECT_GOOGLE_PLACE_KEY = AIzaSyB85kLYYOmuAhBUPd7odVmL6gnQsSGWU-4
